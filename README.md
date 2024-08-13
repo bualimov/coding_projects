@@ -1,2 +1,3 @@
-# coding_projects
-My coding projects where I learn to code with different languages and enhance my skills
+# coding_projects ✏️📈 
+Hi! 👋 Attached, you will find programming projects that I have worked/am currently working on. I am learning a variety of languages and applying different data analysis programs too, like Pandas and SQL. The idea of this repo is to steadily improve my coding skills and expand my knowledge, and store everything here. <br> <br>
+Aside from a applying my Python skills towards a few Jupyter Notebook projects, I am most proficient in Java, and aim to build my very own fully functioning app - with complete backend and frontend functionality. I hope to apply my critical thinking skills along with my creativity to work on such a project. Thanks for visiting me along my journey!
